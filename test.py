@@ -1,2 +1,2 @@
 print('Hello World!')
-print("Hi Srujana! Thinnavaraa?")
+print("Hi Srujana! Bye Srujana!")
