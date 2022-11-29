@@ -1,0 +1,33 @@
+
+.bg-cont {
+    background-color: #225db0;
+    padding: 20px;
+    font-family: "Roboto";
+    color: #ffffff;
+    height: 100vh;
+}
+
+.h1 {
+    font-size: 30px;
+}
+
+.txt {
+    font-size: 15px;
+}
+
+.card {
+    background-color: #ffffff;
+    border-radius: 5px;
+    padding: 10px;
+    color: #1f2933;
+    text-align: center;
+    margin: 10px;
+    height: 80px;
+    width: 120px;
+}
+
+.img {
+    height: 30px;
+    width: 30px;
+    margin: 5px;
+}
